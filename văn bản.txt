@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLB Ngoại Khóa</title>
+    <style>
+        .banner {
+            background-color: #f0f8ff;
+            padding: 20px;
+            text-align: center;
+        }
+        .row {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+        }
+        .block_3 {
+            background-color: #e6f7ff;
+            padding: 20px;
+            width: 30%;
+            border: 1px solid #b3d9ff;
+            border-radius: 5px;
+        }
+        .block_3 h3 {
+            margin-top: 0;
+            color: #0073e6;
+        }
+        .text-content {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">
+        <h2>CLB Ngoại Khóa Trường THPT Nguyễn Bỉnh Khiêm</h2>
+        <p>Khẩu hiệu: Slogan - Ta cần tạo bầu không khí năng động, thân thiện và sáng tạo trong mỗi trang web</p>
+    </div>
+    <div class="row">
+        <div class="block_3">
+            <h3>Tỏa sáng</h3>
+            <p class="text-content">Giành những giải thưởng cao nhất</p>
+        </div>
+        <div class="block_3">
+            <h3>Đam mê</h3>
+            <p class="text-content">Chạy hết mình trong các cuộc chơi</p>
+        </div>
+        <div class="block_3">
+            <h3>Năng động</h3>
+            <p class="text-content">Hoạt động năng nổ và hiệu quả</p>
+        </div>
+    </div>
+</body>
+</html>
